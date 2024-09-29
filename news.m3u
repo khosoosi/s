@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:18,Iran Intl Live
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 #EXTINF:108,CNN International
 #EXTVLCOPT:network-caching=1000
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
